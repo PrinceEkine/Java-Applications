@@ -9,8 +9,5 @@ public class StaticMethod{
 	}
 	public static void main(String[] args){
 		addition();
-		addition();
-		addition();
-		addition();
 	}
 }
