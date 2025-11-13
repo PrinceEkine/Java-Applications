@@ -19,6 +19,7 @@ public class UsingMathClass{
 		System.out.printf("The Minimum number is %d%n",Math.min(num1,num2));
 		System.out.printf("The SquareRoot  is %d%n",castedSquareRootNum);
 		System.out.printf("The answer is  is %f%n",Math.pow(num1,2)*Math.pow(num2,2));
+		System.out.printf("The SquareRoot  is %d%n",castedSquareRootNum);
 	}
 }
 		
