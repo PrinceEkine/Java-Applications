@@ -28,7 +28,7 @@ public class UsingEnums{
 			System.out.println("Account Created Successfully");
 		}
 		if(selectedType != null){
-			System.out.println("Selected account type is " + selectedType);
+			System.out.println("Selected account type -> " + selectedType);
 		}
 		else{
 			System.out.println("Invalid Account Type");
